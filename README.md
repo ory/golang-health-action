@@ -1,0 +1,1 @@
+# golang-lint-action
